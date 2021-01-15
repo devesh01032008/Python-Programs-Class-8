@@ -16,7 +16,7 @@ while True:
         		print("Thank You For Adding Account ")
         		f = open("user.txt","a")
         		f.write(f"Username : {username}\nPassword : {password}\n")
-        		break
+  
         	else:
         		break
     elif user_answer == "quit":
