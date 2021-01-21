@@ -23,3 +23,5 @@ else:
 answer = terms[0].split("x")
 ans = rhs/float(answer[0])
 print(f"Solution Of Given Equation = {ans}")
+print("Thank You For Using It")
+
