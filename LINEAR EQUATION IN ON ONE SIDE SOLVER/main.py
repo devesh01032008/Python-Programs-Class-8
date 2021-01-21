@@ -1,5 +1,9 @@
 equation = input("Enter Equation Here = ")
 
+if "+" in equation:
+	sum = True
+else:
+	sum = False
 
 def RHSandLHS(equation):
 	LHS = equation.split("=")
@@ -10,9 +14,12 @@ lhs,rhs = RHSandLHS(equation)
 operators = ["+","-"]
 
 
-for operator in operators:
-	terms = lhs.split(operator)
-	if len(terms) == 2:
-		print(terms)
-	else:
-		break
+if sum == True:
+	terms = lhs.split("+")
+	rhs = float(rhs)-float(terms[1])
+else:
+	terms = lhs.split("-")
+	rhs = float(rhs)+float(terms[1])
+answer = terms[0].split("x")
+ans = rhs/float(answer[0])
+print(f"Solution Of Given Equation = {ans}")
