@@ -1,6 +1,9 @@
 equation = input("Enter Equation Here = ")
 
-
+if "+" in equation:
+	add = True
+else:
+	sub = True
 def RHSandLHS(equation):
 	LHS = equation.split("=")
 	return LHS[0],LHS[1]
@@ -16,3 +19,9 @@ for operator in operators:
 		print(terms)
 	else:
 		break
+if add = True:
+	diff = float(rhs) - terms[1]
+	print(diff)
+else:
+	sum = float(rhs) + terms[1]
+	print(sum)
