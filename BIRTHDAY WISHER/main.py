@@ -1,0 +1,20 @@
+import time
+print("_"*50)
+name = input("Enter Your Name\n")
+time.sleep(2)
+print("_"*50)
+time.sleep(1)
+print(" "*15,"|  Happy Birthday  |"," "*15)
+time.sleep(1)
+
+print(" "*15,"_"*21," "*15)
+time.sleep(2)
+
+print("*"*10,"|  "+name+"   |","*"*10)
+time.sleep(1)
+time.sleep(2)
+print("_"*50)
+print("Congratulations for Your Birthday")
+time.sleep(3)
+print("_"*50)
+time.sleep(3)
