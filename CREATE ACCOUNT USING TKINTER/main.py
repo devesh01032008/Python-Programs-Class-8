@@ -1,4 +1,9 @@
 from tkinter import *
+import os
+try:
+	os.system("pip install tkinter")
+except Exception as e:
+	os.system("pip3 install tkinter")
 root = Tk()
 Label(text="Create Account",bg="black",fg="white").grid(row=0 ,column=2)
 user = Label(text="Username")
