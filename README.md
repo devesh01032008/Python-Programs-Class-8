@@ -52,5 +52,9 @@ Note : It doesn't lock using system
 
 18.) Terminal using python is a program used to run terminal commands in python file in current working direcrory....)
 
+19.) Linear equation in two variable solver is a program can be used to solve linear equations with two variables without a constant . It can be used to find X when y = 0 and Y when X = 0 .
 
-<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>>>
+
+
+
+<<<<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>
