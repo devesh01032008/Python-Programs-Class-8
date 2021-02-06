@@ -5,23 +5,18 @@ I Have Created Many Projects in it.....
 
 Project Description with their Usage is as follow:
 
-
 1.) Armstrong checker is program  written in python which
 which would check if a number is armstrong is or not 
 
-
 2.) Arrow Design is program written in python which would
 make a arrow design on terminal till you exit it using ctrl+z
-
 
 3.) Birthday Wisher is program created to wish user birthday
 on console using python language . It uses time module and os
 module.
 
-
 4.) C.I and S.I calculator is a program written in python
 to calculate C.I or S.I using user input .
-
 
 5.) Clock and Beeper is program which use os module and watch
 
@@ -53,6 +48,8 @@ Note : It doesn't lock using system
 18.) Terminal using python is a program used to run terminal commands in python file in current working direcrory....)
 
 19.) Linear equation in two variable solver is a program can be used to solve linear equations with two variables without a constant . It can be used to find X when y = 0 and Y when X = 0 .
+
+20.) Random number multiplier is a program using random , os and time module which take randomly 5 digit number and multiply it with another random number. It is made due to my principle sir gave me this Homework to multiply 5 digit number with 5 digit number..
 
 
 
