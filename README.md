@@ -51,7 +51,8 @@ Note : It doesn't lock using system
 
 20.) Random number multiplier is a program using random , os and time module which take randomly 5 digit number and multiply it with another random number. It is made due to my principle sir gave me this Homework to multiply 5 digit number with 5 digit number..
 
+21.) Binary To Decimal convertor is a program to convert binary to deciamal . it uses time and os module and simple loguc to convert binary numbers into decimal numbers...
 
-
+22.) Prime number finder is a program can be used to find whether a number is prime or not..
 
 <<<<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>
