@@ -53,6 +53,7 @@ Note : It doesn't lock using system
 
 21.) Binary To Decimal convertor is a program to convert binary to deciamal . it uses time and os module and simple loguc to convert binary numbers into decimal numbers...
 
-22.) Prime number finder is a program can be used to find whether a number is prime or not..
+22.) factor finder is a program can be used to find facotrs of given number.It is created using os and time module for making it slower....
+
 
 <<<<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>

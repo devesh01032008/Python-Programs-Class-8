@@ -8,7 +8,6 @@ if c == "":
 	ci = p*((1+r/100)**t)
 	print("Interest at compound = ",ci-p,"Amount at compound interest = ",ci)
 	profit = ci-si
-	
 elif c =="si":
 	si = p*r*t/100
 	print("Interest at simple = ",si,"Amount at simple interest = ",p+si)
