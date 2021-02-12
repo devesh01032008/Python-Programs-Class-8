@@ -55,5 +55,7 @@ Note : It doesn't lock using system
 
 22.) factor finder is a program can be used to find facotrs of given number.It is created using os and time module for making it slower....
 
+23.) Qr code generator is a program can be used to generate code . it is maked using pyqrcode module....
 
-<<<<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>
+
+<!--<<<<<<<<<<<<<<<End of Description Here>>>>>>>>>>>>>>>>>>-->
