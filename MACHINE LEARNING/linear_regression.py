@@ -1,4 +1,7 @@
-
+import os
+os.sytem("pip3=pip")
+os.system("pip install sklearn")
+os.system("pip install numpy")
 
 from sklearn import datasets
 from sklearn.linear_model import LinearRegression

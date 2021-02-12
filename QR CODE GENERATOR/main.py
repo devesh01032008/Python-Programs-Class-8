@@ -1,3 +1,5 @@
+import os
+os.system("pip install pyqrcode && pip install pypng")
 import pyqrcode
 import png
 

@@ -1,3 +1,5 @@
+import os
+os.system("pip install matplotlib && pip3 install matplotlib")
 import matplotlib.pyplot as plt
 from math import *
 x = [i for i in range(91)]

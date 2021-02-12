@@ -1,3 +1,7 @@
+import os
+os.system("pip install numpy && pip3 install numpy")
+
+import numpy as np
 n1 = np.array([1,2,3])
 n2 = np.array([[1,2,3],[3,2,1]])
 n3 = np.zeros((5,5))

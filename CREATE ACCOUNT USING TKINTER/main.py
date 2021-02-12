@@ -1,5 +1,6 @@
-from tkinter import *
 import os
+os.system("pip install tkinter")
+from tkinter import *
 try:
 	os.system("pip install tkinter")
 except Exception as e:
