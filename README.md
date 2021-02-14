@@ -18,6 +18,8 @@ module.
 4.) C.I and S.I calculator is a program written in python
 to calculate C.I or S.I using user input .
 
+5.) Speak Using termux is program written in python taht works only in termux with api which can pronounce word or sentence....
+
 6.) Create Account using Tkinter is a program help you to create account and add information to a new file using. This program is created using tkinter module ane os module will automatically install tkinter in system.
 
 7.) File Reader is a program to read file and find the word in the file and the index of file...
